@@ -35,5 +35,9 @@ build/
 ### VS Code ###
 .vscode/
 
+### Obsidian ###
+.obsidian/
+docs/.obsidian/
+
 ### Mac OS ###
 .DS_Store
